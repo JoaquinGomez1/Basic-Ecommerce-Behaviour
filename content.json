@@ -1,0 +1,43 @@
+[{
+    "img":"./Images/image4.jpg",
+    "name":"Simple Smartwatch",
+    "price":120,
+    "ammount": 1
+},
+{
+    "img":"./Images/image1.jpg",
+    "name":"Simple Smartwatch",
+    "price":30,
+    "ammount": 1
+},
+{
+    "img":"./Images/image1.jpg",
+    "name":"Simple Smartwatch",
+    "price":50,
+    "ammount": 1
+},{
+    "img":"./Images/image4.jpg",
+    "name":"Simple Smartwatch",
+    "price":50,
+    "ammount": 1
+},{
+    "img":"./Images/image3.jpg",
+    "name":"Simple Smartwatch",
+    "price":65,
+    "ammount": 1
+},{
+    "img":"./Images/image2.jpg",
+    "name":"Simple Smartwatch",
+    "price":50,
+    "ammount": 1
+},{
+    "img":"./Images/image5.jpg",
+    "name":"Simple Smartwatch",
+    "price":150,
+    "ammount": 1
+},{
+    "img":"./Images/image5.jpg",
+    "name":"Simple Smartwatch",
+    "price":90,
+    "ammount": 1
+}]
